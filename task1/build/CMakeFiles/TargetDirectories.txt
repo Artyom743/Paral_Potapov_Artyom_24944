@@ -1,3 +1,0 @@
-C:/Users/Филин/Desktop/третий курс/Параллелизм/task1/build/CMakeFiles/myproject.dir
-C:/Users/Филин/Desktop/третий курс/Параллелизм/task1/build/CMakeFiles/edit_cache.dir
-C:/Users/Филин/Desktop/третий курс/Параллелизм/task1/build/CMakeFiles/rebuild_cache.dir

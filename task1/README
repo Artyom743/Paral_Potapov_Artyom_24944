@@ -12,8 +12,6 @@
 
 mkdir build
 cd build
-cmake .. -DTYPE=ON
-make
 ./myproject 1/2
 
 
