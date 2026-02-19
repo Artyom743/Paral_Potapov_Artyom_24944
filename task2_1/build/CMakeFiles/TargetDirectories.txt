@@ -1,0 +1,3 @@
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_1/build/CMakeFiles/task1.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_1/build/CMakeFiles/rebuild_cache.dir

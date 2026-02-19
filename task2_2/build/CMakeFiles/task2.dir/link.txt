@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task2.dir/task2.cpp.o -o task2  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
