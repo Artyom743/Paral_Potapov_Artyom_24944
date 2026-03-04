@@ -10,9 +10,6 @@
 int main(int argc, char **argv)
 {
     double **vec1 = new double*[VEC_SIZE];
-    for(int i = 0; i < VEC_SIZE; i++) {
-        vec1[i] = new double[VEC_SIZE];
-    }
     double *vec2 = new double[VEC_SIZE];
     double *res = new double[VEC_SIZE];
 
@@ -20,9 +17,6 @@ int main(int argc, char **argv)
 
     for (int i = 0; i < VEC_SIZE; i++)
     {
-        for(int y = 0; y < VEC_SIZE; y++){
-            vec1[i][y] = double(y+1);
-        }
         vec2[i] = VEC_SIZE - i;
         res[i] = 0;
     }
@@ -38,7 +32,9 @@ int main(int argc, char **argv)
         int end = thread_id == num_threads - 1 ? VEC_SIZE : (thread_id + 1) * size_per_thread;
         for (int i = start; i < end; i++)
         {
+            vec1[i] = new double[VEC_SIZE];
             for(int y = 0; y < VEC_SIZE; y++){
+                vec1[i][y] = double(y+1);
                 res[i] += vec2[y] * vec1[i][y];
             }
         }
