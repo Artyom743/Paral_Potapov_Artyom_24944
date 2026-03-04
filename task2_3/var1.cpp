@@ -47,7 +47,7 @@ int main(int argc, char **argv)
             res_new[i] = (1 - 0.0001) * res[i] + 0.0001 *((b[i]-sum)/(A[i][i])); 
         }
         double sum_error = 0.0;
-        #pragma omp parallel for
+        #pragma omp parallel for reduction(+:sum_error)
         for (int i = 0; i < N; i++)
         {
             // #pragma omp atomic

@@ -1,4 +1,4 @@
-/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/build/CMakeFiles/task2_1.dir
-/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/build/CMakeFiles/task2_2.dir
-/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/build/CMakeFiles/task2_1.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/build/CMakeFiles/task2_2.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/build/CMakeFiles/rebuild_cache.dir

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/var1.cpp" "CMakeFiles/task2_1.dir/var1.cpp.o" "gcc" "CMakeFiles/task2_1.dir/var1.cpp.o.d"
+  "/mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/var1.cpp" "CMakeFiles/task2_1.dir/var1.cpp.o" "gcc" "CMakeFiles/task2_1.dir/var1.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

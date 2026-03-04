@@ -1,5 +1,5 @@
 CMakeFiles/task2_1.dir/var1.cpp.o: \
- /mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2/var1.cpp \
+ /mnt/c/Users/Филин/Desktop/четвёртый_семестр/Параллелизм/Paral_Potapov_Artyom_24944/task2_3/var1.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
