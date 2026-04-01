@@ -34,6 +34,7 @@ int main(int argc, char **argv)
 
     auto end1 = std::chrono::steady_clock::now();
 
+    
     for(int z = 0; z < N; z++){
         #pragma omp parallel
         {
