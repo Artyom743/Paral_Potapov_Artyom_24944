@@ -1,0 +1,30 @@
+2026-04-04 13:29:05,491 - ERROR - Ошибка: Не указано имя камеры.
+2026-04-04 13:29:05,820 - INFO - Датчик SensorX инициализирован с задержкой 0.01 секунд
+2026-04-04 13:29:05,820 - INFO - Датчик SensorX инициализирован с задержкой 0.1 секунд
+2026-04-04 13:29:05,820 - INFO - Датчик SensorX инициализирован с задержкой 1.0 секунд
+2026-04-04 13:29:05,821 - INFO - Окно для отображения изображений инициализировано с частотой обновления 30 кадров в секунду
+2026-04-04 13:30:04,282 - ERROR - Ошибка: Не указано имя камеры.
+2026-04-04 13:30:04,490 - INFO - Датчик SensorX инициализирован с задержкой 0.01 секунд
+2026-04-04 13:30:04,490 - INFO - Датчик SensorX инициализирован с задержкой 0.1 секунд
+2026-04-04 13:30:04,490 - INFO - Датчик SensorX инициализирован с задержкой 1.0 секунд
+2026-04-04 13:30:04,492 - INFO - Окно для отображения изображений инициализировано с частотой обновления 30 кадров в секунду
+2026-04-15 09:49:12,925 - ERROR - Ошибка: Не указано имя камеры.
+2026-04-15 09:49:13,352 - INFO - Датчик SensorX инициализирован с задержкой 0.01 секунд
+2026-04-15 09:49:13,352 - INFO - Датчик SensorX инициализирован с задержкой 0.1 секунд
+2026-04-15 09:49:13,352 - INFO - Датчик SensorX инициализирован с задержкой 1.0 секунд
+2026-04-15 09:49:13,354 - INFO - Окно для отображения изображений инициализировано с частотой обновления 30 кадров в секунду
+2026-04-15 10:02:37,188 - ERROR - Error: Camera name not specified.
+2026-04-15 10:02:37,569 - INFO - SensorX initialized with delay 0.01 seconds
+2026-04-15 10:02:37,569 - INFO - SensorX initialized with delay 0.1 seconds
+2026-04-15 10:02:37,569 - INFO - SensorX initialized with delay 1.0 seconds
+2026-04-15 10:02:37,573 - INFO - Image display window initialized with update frequency 30 frames per second
+2026-04-15 10:03:45,722 - ERROR - Error: Camera name not specified.
+2026-04-15 10:03:46,089 - INFO - SensorX initialized with delay 0.01 seconds
+2026-04-15 10:03:46,089 - INFO - SensorX initialized with delay 0.1 seconds
+2026-04-15 10:03:46,089 - INFO - SensorX initialized with delay 1.0 seconds
+2026-04-15 10:03:46,090 - INFO - Image display window initialized with update frequency 30 frames per second
+2026-04-15 10:08:39,026 - ERROR - Error: Camera name not specified.
+2026-04-15 10:08:39,345 - INFO - SensorX initialized with delay 0.01 seconds
+2026-04-15 10:08:39,345 - INFO - SensorX initialized with delay 0.1 seconds
+2026-04-15 10:08:39,345 - INFO - SensorX initialized with delay 1.0 seconds
+2026-04-15 10:08:39,346 - INFO - Image display window initialized with update frequency 30 frames per second
